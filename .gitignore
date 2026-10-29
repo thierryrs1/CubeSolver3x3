@@ -1,0 +1,27 @@
+# Byte-compiled / cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Empacotamento / Build PyInstaller
+build/
+dist/
+*.spec
+
+# IDE / Sistema Operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
